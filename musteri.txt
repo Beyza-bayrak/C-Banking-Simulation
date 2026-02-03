@@ -1,0 +1,10 @@
+ali tekin;00001;abcd123;750
+veli cetin;00002;abc123123;800
+osman yasar;00003;abc123;500
+recep bal;00004;a123456;1400
+davut can;00005;bb12346;500
+fatih kaya;00006;abc123;500
+recai tok;00007;abc123;500
+ayla terzi;00008;abc123;500
+can ozturk;00009;abc123;500
+cansu demir;00010;abc123;500
