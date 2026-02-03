@@ -1,8 +1,7 @@
 # C-Banking-Simulation
 # ATM Management System in C
 
-## 🇹🇷 Türkçe Sürüm
-
+## 🇹🇷 
 Bu proje, C programlama dili ile geliştirilmiş, verileri `txt` dosyalarında saklayan bir ATM simülasyonudur.
 
 ### 🚀 Özellikler
@@ -16,8 +15,16 @@ Bu proje, C programlama dili ile geliştirilmiş, verileri `txt` dosyalarında s
 * # C-Banking-Simulation
 # ATM Management System in C
 
-## 🇺🇸 English Version
+## 🛠️ Kurulum ve Çalıştırma
 
+1. C derleyicinizin (GCC, MinGW vb.) kurulu olduğundan emin olun.
+2. `musteri.txt` ve `kasa.txt` dosyalarının kod dosyasıyla aynı klasörde olduğunu kontrol edin.
+3. Terminal veya IDE üzerinden projeyi derleyin ve çalıştırın:
+   bash 
+   gcc main.c -o atm_projesi
+   ./atm_projesi
+
+## 🇺🇸 
 This project is an ATM simulation developed in C, utilizing `txt` files for data storage and management.
 
 ### 🚀 Features
@@ -29,13 +36,16 @@ This project is an ATM simulation developed in C, utilizing `txt` files for data
 * **musteri.txt:** `Name Surname;AccountNo;Password;Balance`
 * **kasa.txt:** `Count_50TL;Count_100TL;Count_200TL`
 
+##🛠️ Setup and Execution | Kurulum ve Çalıştırma
+Ensure a C compiler (GCC, MinGW, etc.) is installed on your system. 
 
+Verify that musteri.txt and kasa.txt are in the same directory as the source code. 
 
-### 🛠️ Kurulum /installation
-```bash
-gcc main.c -o atm_project
-./atm_project
+Compile and run the project via terminal or IDE: 
 
+bash
+gcc main.c -o atm_system
+./atm_system
 
 
 
